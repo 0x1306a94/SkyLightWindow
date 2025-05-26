@@ -78,7 +78,7 @@ The framework handles:
 
 ## Important Notes
 
-⚠️ **Privacy & Security**: This framework uses private APIs and may require special entitlements for distribution outside the Mac App Store.
+⚠️ **Privacy & Security**: This framework uses private APIs but works without special entitlements and is available to the Mac App Store.
 
 ⚠️ **System Compatibility**: Tested on macOS 11.0+ but may work on earlier versions. Private APIs can change between system updates.
 
